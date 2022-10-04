@@ -14,6 +14,6 @@ I have created 5 apis in this Employee Management System Project :-
 4. List an Employee (With pagination).
 5. Get Employee.
 
-### Added more functionalities like user register, user login and logout page.
+### Added more functionalities like User register, User login and logout page.
 
 
