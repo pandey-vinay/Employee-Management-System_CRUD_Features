@@ -4,7 +4,7 @@ CRUD features in this Project are created by using Spring Boot, Thymeleaf & Spri
 ## For UI, I have used Thymeleaf in this Project.
 I have added 5 templates like login, user register, save new employee, update an existing employee & employee list.
 
-## For backend, I have used Spring Boot and JPA Hibernate(for saving data in the memory).
+## For backend, I have used Spring Boot and JPA Hibernate (for saving data in the memory).
 
 I have created 5 apis in this Employee Management System Project :-
 
@@ -14,6 +14,6 @@ I have created 5 apis in this Employee Management System Project :-
 4. List an Employee (With pagination).
 5. Get Employee.
 
-Added more functionalities like user register, user login and logout page.
+### Added more functionalities like user register, user login and logout page.
 
 
