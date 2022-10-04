@@ -1,5 +1,5 @@
 # CRUD features for Employee Management System.
-These features are created by using Spring Boot, Thymeleaf & Spring JPA Hibernate.
+CRUD features in this Project are created by using Spring Boot, Thymeleaf & Spring JPA Hibernate.
 
 ## For UI, I have used Thymeleaf in this Project.
 I have added 5 templates like login, user register, save new employee, update an existing employee & employee list.
