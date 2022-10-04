@@ -2,7 +2,7 @@
 CRUD features in this Project are created by using Spring Boot, Thymeleaf & Spring JPA Hibernate.
 
 ## For UI, I have used Thymeleaf in this Project.
-I have added 5 templates like login, user register, save new employee, update an existing employee & employee list.
+I have added 5 templates like User login, User register, Save new employee, Update an existing employee details & employee list.
 
 ## For backend, I have used Spring Boot and JPA Hibernate (for saving data in the memory).
 
